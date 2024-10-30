@@ -3,9 +3,9 @@
 
 This repo contains all the downloadable materials and projects associated with the **Introduction to Kotlin Object-Oriented Programming** module in:
 
-### [Object-Oriented Programming in Android](https://www.kodeco.com/android/paths)
+### [Object-Oriented Programming in Android](https://www.kodeco.com/android/paths/object-oriented-programming)
 
-- This course is part of [Kotlin Essentials Program](https://www.kodeco.com), which you can take as on-demand bootcamp from [Kodeco](https://www.kodeco.com).
+- This course is part of [Beginning Android & Kotlin](https://www.kodeco.com/android/programs/beginning-android), which you can take as on-demand bootcamp from [Kodeco](https://www.kodeco.com).
 
 --- 
 
